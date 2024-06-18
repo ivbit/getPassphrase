@@ -1,0 +1,2 @@
+# getPassphrase
+Generate a passphrase.
